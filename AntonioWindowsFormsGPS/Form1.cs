@@ -399,9 +399,9 @@ namespace AntonioWindowsFormsGPS
         //Método que devuelve direccion a traves de coordenadas pasadas
         private async Task<string> ObtenerDireccionDesdeCoordenadas(double latitud, double longitud)
         {
-            string apiKey = "AIzaSyACtTstNWahfF3YipXHOl0tT40TwPvWL9E"; //clave de API de Geocodificación de Google
+            string apikey = StringKeys.APIKey;
 
-            string url = $"https://maps.googleapis.com/maps/api/geocode/json?latlng={latitud},{longitud}&key={apiKey}";
+            string url = $"https://maps.googleapis.com/maps/api/geocode/json?latlng={latitud},{longitud}&key={apikey}";
 
             try
             {
