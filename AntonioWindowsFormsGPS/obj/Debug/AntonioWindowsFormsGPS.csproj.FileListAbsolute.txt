@@ -28,3 +28,10 @@ C:\Users\export\Documents\Visual Studio 2015\Projects\AntonioWindowsFormsGPS\Ant
 \\servidorme\DATOS\18.0 Antonio\Proyecto 2\AntonioWindowsFormsGPS\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.Form1.resources
 \\servidorme\DATOS\18.0 Antonio\Proyecto 2\AntonioWindowsFormsGPS\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.Properties.Resources.resources
 \\servidorme\DATOS\18.0 Antonio\Proyecto 2\AntonioWindowsFormsGPS\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.csproj.GenerateResource.Cache
+C:\Users\anton\OneDrive\Proyectos GIthub\GPS-NETFramework\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Proyectos GIthub\GPS-NETFramework\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.Form1.resources
+C:\Users\anton\OneDrive\Proyectos GIthub\GPS-NETFramework\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.Properties.Resources.resources
+C:\Users\anton\OneDrive\Proyectos GIthub\GPS-NETFramework\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Proyectos GIthub\GPS-NETFramework\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Proyectos GIthub\GPS-NETFramework\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.exe
+C:\Users\anton\OneDrive\Proyectos GIthub\GPS-NETFramework\AntonioWindowsFormsGPS\obj\Debug\AntonioWindowsFormsGPS.pdb
